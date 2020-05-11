@@ -15,5 +15,6 @@ public class FirstClass {
     void test(){
         int i = 10;
         System.out.println(i);
+        System.out.println("哈哈哈哈哈真**");
     }
 }
