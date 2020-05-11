@@ -11,4 +11,9 @@ public class FirstClass {
         System.out.println("git 牛逼2");
         System.out.println("git 牛逼3");
     }
+
+    void test(){
+        int i = 10;
+        System.out.println(i);
+    }
 }
